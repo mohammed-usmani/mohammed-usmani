@@ -47,13 +47,13 @@ The rest — [23 systems total](https://www.mohammedusmani.me/work) — is at mo
 Grouped by what they actually are:
 
 **Agent systems**
-- **[Cortex](https://github.com/Mohammed6903/Cortex)** — self-curating memory for a personal agent. Belief revision over an episodic log, so it updates and retires beliefs instead of just appending.
-- **[GoalKeeper](https://github.com/Mohammed6903/GoalKeeper)** — Taskwarrior-style urgency engine with an LLM layer bolted on top. The scoring is pure and fully tested; the model proposes and never silently mutates your data.
-- **[APIAgent](https://github.com/Mohammed6903/APIAgent)** — multi-agent API testing that parses a project and writes its own OpenAPI docs.
+- **[Cortex](https://github.com/mohammed-usmani/Cortex)** — self-curating memory for a personal agent. Belief revision over an episodic log, so it updates and retires beliefs instead of just appending.
+- **[GoalKeeper](https://github.com/mohammed-usmani/GoalKeeper)** — Taskwarrior-style urgency engine with an LLM layer bolted on top. The scoring is pure and fully tested; the model proposes and never silently mutates your data.
+- **[APIAgent](https://github.com/mohammed-usmani/APIAgent)** — multi-agent API testing that parses a project and writes its own OpenAPI docs.
 
 **Apps & tools**
-- **[solidboard](https://github.com/Mohammed6903/solidboard)** — Kanban on SolidJS with a hand-rolled drag-and-drop engine. Two runtime dependencies, total.
-- **[gameweb](https://github.com/Mohammed6903/gameweb)** — gaming portal with an ETL pipeline that ingests and normalises 3,000+ games.
+- **[solidboard](https://github.com/mohammed-usmani/solidboard)** — Kanban on SolidJS with a hand-rolled drag-and-drop engine. Two runtime dependencies, total.
+- **[gameweb](https://github.com/mohammed-usmani/gameweb)** — gaming portal with an ETL pipeline that ingests and normalises 3,000+ games.
 - **[CityFix](https://github.com/Sumeet-2023/CityFix)** — civic issue reporting, UN SDG 11. I built the backend and schema. Took 3rd at GNEC International.
 
 ---
