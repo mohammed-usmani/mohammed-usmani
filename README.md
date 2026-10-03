@@ -1,6 +1,6 @@
 # Mohammed Usmani
 
-AI & ML Engineer, based in Bengaluru. I build agentic systems that run in
+AI Engineer at TechNsure IT Hub, based in Mumbai. I build agentic systems that run in
 production — multi-agent orchestration, retrieval pipelines, realtime voice,
 and the multi-tenant backends underneath them.
 
@@ -47,6 +47,7 @@ The rest — [23 systems total](https://www.mohammedusmani.me/work) — is at mo
 Grouped by what they actually are:
 
 **Agent systems**
+- **[voiceAgent](https://github.com/mohammed-usmani/voiceAgent)** — a LiveKit phone agent that runs job pre-screening calls and logs every turn-taking decision. Median reply at the agent cut from 2.44 s to 1.81 s, with an LLM fallback across providers so a bad reply never goes silent.
 - **[Cortex](https://github.com/mohammed-usmani/Cortex)** — self-curating memory for a personal agent. Belief revision over an episodic log, so it updates and retires beliefs instead of just appending.
 - **[GoalKeeper](https://github.com/mohammed-usmani/GoalKeeper)** — Taskwarrior-style urgency engine with an LLM layer bolted on top. The scoring is pure and fully tested; the model proposes and never silently mutates your data.
 - **[APIAgent](https://github.com/mohammed-usmani/APIAgent)** — multi-agent API testing that parses a project and writes its own OpenAPI docs.
@@ -67,9 +68,9 @@ be traced to a source gets withheld rather than shown. It's slower to build and
 much harder to embarrass.
 
 **Stack:** Python (FastAPI), TypeScript (Node, Express, NestJS), LangGraph, MCP,
-OpenAI / Anthropic / Gemini, Deepgram and Voxtral for speech, Qdrant and pgvector
-for retrieval, Celery and BullMQ, PostgreSQL / MongoDB / Redis, Docker on
-GCP, AWS and DigitalOcean.
+OpenAI / Anthropic / Gemini, Deepgram and Voxtral for speech, LiveKit for realtime
+voice, Qdrant and pgvector for retrieval, Celery and BullMQ, PostgreSQL / MongoDB /
+Redis, Docker on GCP, AWS and DigitalOcean.
 
 ---
 
@@ -77,12 +78,12 @@ GCP, AWS and DigitalOcean.
 
 [Portfolio](https://www.mohammedusmani.me) ·
 [Resume](https://www.mohammedusmani.me/resume) ·
-[LinkedIn](https://linkedin.com/in/mohammed-usmani-927a96286) ·
+[LinkedIn](https://linkedin.com/in/mohammed-usmani) ·
 [Devpost](https://devpost.com/mohammedusmani2005) ·
 [Devfolio](https://devfolio.co/@Mohamammed) ·
 [X](https://x.com/MohammedUs68507)
 
-mohammedusmani2005@gmail.com · **Open to AI/ML and backend engineer roles at product-focused startups.**
+mohammedusmani2005@gmail.com · **Open to AI engineer and backend roles at product-focused startups.**
 
 ---
 
