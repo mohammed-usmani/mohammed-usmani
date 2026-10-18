@@ -13,7 +13,7 @@ cite where the answer came from.
 
 ### Things I've built
 
-**[FS Preparation Agent](https://www.mohammedusmani.me/projects/fs-prep-agent)** — a financial statement engine, ~89K LOC of Python.
+**[FS Preparation Agent](https://www.mohammedusmani.me/projects/fs-prep-agent)** — a financial statement engine.
 Its core is a Cross-Reference Graph linking every statement line to its note and
 ledger account. Links are proposed by deterministic resolvers and only confirmed
 when the numbers actually reconcile. Where an LLM helps, it just points at cells —
@@ -28,7 +28,7 @@ from ~96K to ~2K tokens a turn, and getting speaker attribution out of the
 transport instead of paying for a diarization model.
 
 **[Luca](https://www.mohammedusmani.me/projects/luca)** — AI accounting platform for Indian CAs. [Live](https://askluca.in).
-~199K LOC. Five LLM providers behind one registry with health-scored fallback,
+Five LLM providers behind one registry with health-scored fallback,
 pgvector RAG, 11 chat modes, and 10 statutory-compliance modules over a
 106-table schema.
 
