@@ -11,7 +11,7 @@ deterministic code decides.
 - **At work (closed-source):** the AI layer of NetworkChains, a live sales platform.
   Write-ups for it, Luca and the FS Preparation Agent at **[mohammedusmani.me](https://www.mohammedusmani.me)**
 
-Python · LangGraph · LiveKit · MCP · FastAPI · Postgres/pgvector · Next.js
+Python · LangGraph · LiveKit · MCP · FastAPI · Postgres/pgvector · Next.js · LoRA/PEFT · llama.cpp
 
 📧 mohammedusmani2005@gmail.com · [LinkedIn](https://linkedin.com/in/mohammed-usmani) · [Resume](https://www.mohammedusmani.me/resume)
 
